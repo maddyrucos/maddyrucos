@@ -1,20 +1,96 @@
-# Hello! I'm Igor
+# Hello! I'm Igor 👋
 
-Welcome to my GitHub page! I'm a Python developer with experience in various areas, including web development, bot creation, and working with APIs. Here you will find my projects that showcase my skills and interests.
+Welcome to my GitHub profile!
 
-## Skills
+I'm a **Python / Backend / ML engineer** focused on building **AI-driven systems**, scalable backend services, and production-ready pipelines. My work spans from classic web development to **high-load async systems** and **LLM-based agents**.
 
-- **Python 3**: My primary programming language for most of my projects.
-- **Django 3**: A web framework I use to create powerful and scalable web applications.
-- **Aiogram**: A library for creating Telegram bots, which I use to develop interactive and useful bots.
-- **HTTPS**: A protocol for secure data transmission, which I use to ensure the security of my web applications.
+Here you’ll find projects related to machine learning, AI agents, backend services, and infrastructure.
 
+---
 
-## How to Reach Me
+## 🔹 Core Focus
 
-If you have any questions, suggestions, or want to collaborate, please feel free to contact me via telegram: @madeezy (https://t.me/madeezy)
+* **Machine Learning & AI**
+* **LLM agents and orchestration**
+* **High-load backend systems**
+* **Production-ready infrastructure**
 
+---
 
-## Acknowledgments
+## 🧠 Machine Learning & AI
 
-Thank you for visiting my page! I hope my projects are useful and inspire new ideas.
+My primary area of focus is **AI/ML development**, including both research and applied engineering:
+
+* **Model training & experimentation**
+
+  * Classical ML and deep learning models
+  * Data preprocessing, feature engineering, evaluation
+
+* **LLM-based systems**
+
+  * Design and implementation of **LLM agents**
+  * Multi-step reasoning, tools, memory, and workflows
+  * Frameworks:
+
+    * **LangChain**
+    * **LangGraph**
+
+* **AI pipelines**
+
+  * Asynchronous processing
+  * Task orchestration
+  * Integration with external APIs and services
+
+---
+
+## ⚙️ Backend & High-Load Systems
+
+* **Python 3** — primary language
+* **Django** — building robust web applications
+* **FastAPI** — modern async APIs and microservices
+* **RabbitMQ**
+
+  * High-load pipelines
+  * Background jobs and message-driven architectures
+* **Uvicorn**
+
+  * ASGI servers for async applications
+* **REST APIs**
+
+  * API design, authentication, integrations
+
+---
+
+## 🐳 Infrastructure & DevOps
+
+* **Docker**
+
+  * Containerization of services and ML pipelines
+* **Docker Compose**
+
+  * Local and staging environments
+* **Nginx**
+
+  * Reverse proxy
+  * Load balancing
+* **HTTPS**
+
+  * Secure data transmission
+  * Production deployment practices
+
+---
+
+## 📫 How to Reach Me
+
+If you want to collaborate, discuss ML/AI projects, or have any questions:
+
+* **Telegram:** [@madeezy](https://t.me/madeezy)
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks for visiting my profile.
+I’m always interested in **AI/ML challenges**, scalable systems, and complex backend architectures.
+
+Feel free to explore the repositories 🚀
